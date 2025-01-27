@@ -10,3 +10,14 @@ services:
       - "3310:3306"
     volumes:
       - ./mysql:/var/lib/mysql
+  mysql-old:
+    image: mysql:5.7.37
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: mydb-old
+      MYSQL_USER: userOld
+      MYSQL_PASSWORD: passwordOld
+    ports:
+      - "3311:3306"
+    volumes:
+      - ./mysql-old:/var/lib/mysql
