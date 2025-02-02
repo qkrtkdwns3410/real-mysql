@@ -1,0 +1,5 @@
+- 링크
+    - https://until.blog/@qkrtkdwns3410/-til--real-mysql-2 
+    - https://until.blog/@qkrtkdwns3410/-til--real-mysql-2-72l19x3o
+    - https://until.blog/@qkrtkdwns3410/-til--real-mysql-2-4ovw2dlf
+    - https://until.blog/@qkrtkdwns3410/-til--real-mysql-2-mevn8g45
